@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\andre\Desktop\백준\브론즈5\킹, 퀸, 룩, 비숍, 나이트, 폰\소스.cpp(7,6): warning C4101: 'chs' :참조되지 않은 지역 변수입니다.
+  킹, 퀸, 룩, 비숍, 나이트, 폰.vcxproj -> C:\Users\andre\Desktop\백준\브론즈5\Debug\킹, 퀸, 룩, 비숍, 나이트, 폰.exe
